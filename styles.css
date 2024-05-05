@@ -1,5 +1,5 @@
 * {
-  border: 1px black solid;
+  /* border: 1px black solid; */
   background-color: #d56161;
 }
 p,
@@ -25,7 +25,7 @@ ol {
 .name {
   font-size: 50px;
   text-align: center;
-  padding: 5%;
+  padding: 0%;
 }
 .headLine {
   /* may want to look at scaling font to stay inline... */
@@ -50,4 +50,17 @@ ol {
   font-size: 30px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-/* stopping here for the night. testing to see regarding git */
+.contact {
+  text-align: center;
+}
+.contact :link {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: none;
+  color: skyblue;
+  font-size: 40px;
+}
+.projects h2 {
+  font-size: 40px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+}
