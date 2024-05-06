@@ -19,6 +19,11 @@ ol {
   display: flex;
   list-style-type: none;
 }
+.navlinks {
+  text-decoration: none;
+  color: skyblue;
+  font-size: 20px;
+}
 .navList li {
   padding: 0px 20px;
 }
